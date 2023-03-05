@@ -5,7 +5,13 @@ Download for Windows: [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature E
 
 Download for Steam Deck (Linux): [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/raw/main/%5BWIFI_Darth_Maul's%5D%20Steam%20Deck%20(Linux)%20Fix%20For%20Peter%20Jackson's%20King%20Kong%20Signature%20Edition.zip)
 
-HOW TO INSTALL:
+HOW TO INSTALL FOR WINDOWS:
 1. Extract all files to the game folder and click "Replace" if prompted
 2. Double-click "King Kong sig edition.reg" and click "Yes" then "Ok"
 3. Done!
+
+HOW TO INSTALL FOR STEAM DECK (LINUX PROTON):
+1. Extract all files to the game folder and click "Replace" if prompted
+2. Go to Desktop Mode and add King Kong.bat as a Non-Steam Game
+3. Apply my Community Layout for fixed controls. Layout Name: Peter Jackson's King Kong: The Official Game of The Movie (PC) Modernized Control Layout (With left touchpad down to swap easily between Jack & Kong controls)
+4. Done!
