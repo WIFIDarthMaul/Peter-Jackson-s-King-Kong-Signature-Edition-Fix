@@ -1,7 +1,7 @@
 # Peter Jackson's King Kong Signature Edition Fix
 This is a fix for Peter Jackson's King Kong Signature Edition, which bypasses and removed the notorious StarForce DRM, and fixes the "King Kong not properly installed" error that is encountered when the game is launched from a different directory
 
-Download: [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/raw/main/%5BWIFI_Darth_Maul's%5D%20Peter%20Jackson's%20King%20Kong%20Signature%20Edition%20Fix.zip)
+Download for Windows: [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/raw/main/%5BWIFI_Darth_Maul's%5D%20Peter%20Jackson's%20King%20Kong%20Signature%20Edition%20Fix.zip)
 
 Download for Steam Deck (Linux): [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/raw/main/%5BWIFI_Darth_Maul's%5D%20Steam%20Deck%20(Linux)%20Fix%20For%20Peter%20Jackson's%20King%20Kong%20Signature%20Edition.zip)
 
