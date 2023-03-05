@@ -5,6 +5,8 @@ Download for Windows: [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature E
 
 Download for Steam Deck (Linux): [[WIFI_Darth_Maul's] Peter Jackson's King Kong Signature Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/raw/main/%5BWIFI_Darth_Maul's%5D%20Steam%20Deck%20(Linux)%20Fix%20For%20Peter%20Jackson's%20King%20Kong%20Signature%20Edition.zip)
 
+Download for Steam Deck (Linux): [[WIFI_Darth_Maul's] Peter Jackson's King Kong Gamer's Edition Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/raw/main/%5BWIFI_Darth_Maul's%5D%20Steam%20Deck%20(Linux)%20Fix%20For%20Peter%20Jackson's%20King%20Kong%20Signature%20Edition.zip)
+
 HOW TO INSTALL FOR WINDOWS:
 1. Extract all files to the game folder and click "Replace" if prompted
 2. Double-click "King Kong sig edition.reg" and click "Yes" then "Ok"
