@@ -15,5 +15,8 @@ HOW TO INSTALL FOR WINDOWS:
 HOW TO INSTALL FOR STEAM DECK (LINUX PROTON):
 1. Extract all files to the game folder and click "Replace" if prompted
 2. Go to Desktop Mode and add King Kong.bat as a Non-Steam Game. Make sure to go to the game's properties in Steam and set compatibility to Proton.
-3. Apply my Community Layout for fixed controls. Layout Name: Peter Jackson's King Kong: The Official Game of The Movie (PC) Modernized Control Layout (With left touchpad down to swap easily between Jack & Kong controls)
-4. Done!
+3. Rename the Steam Shortcut (King Kong.bat) to: Peter Jackson's King Kong: The Official Game of the Movie (Signature Edition)
+4. Then apply my Community Layout for fixed controls. Layout Name: Peter Jackson's King Kong: The Official Game of The Movie (PC) Modernized Control Layout (With left touchpad down to swap easily between Jack & Kong controls)
+5. Done!
+
+![alt text]([http://url/to/img.png](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/blob/main/20230903154937_1.jpg)https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/blob/main/20230903154937_1.jpg)
