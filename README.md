@@ -19,4 +19,4 @@ HOW TO INSTALL FOR STEAM DECK (LINUX PROTON):
 4. Then apply my Community Layout for fixed controls. Layout Name: Peter Jackson's King Kong: The Official Game of The Movie (PC) Modernized Control Layout (With left touchpad down to swap easily between Jack & Kong controls)
 5. Done!
 
-![alt text]([http://url/to/img.png](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/blob/main/20230903154937_1.jpg)https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix/blob/main/20230903154937_1.jpg)
+![My Image](20230903154937_1.jpg)
